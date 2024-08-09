@@ -1,0 +1,3 @@
+/home/levchmak/transfer/CPP/cpp-projects/Automata/cmake-build-debug/CMakeFiles/Automata.dir
+/home/levchmak/transfer/CPP/cpp-projects/Automata/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/levchmak/transfer/CPP/cpp-projects/Automata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
