@@ -151,7 +151,7 @@ To set up the environment for testing or development, you will need to use a pre
 
 ### Import the VirtualBox Image
 
-1. ** OVA file**: The VirtualBox image file named `psi-tester-2023-v8.ova` is provided in this repository. It contains a fully configured environment needed for running the application.
+1. **OVA file**: The VirtualBox image file named `psi-tester-2023-v8.ova` is provided in this repository. It contains a fully configured environment needed for running the application.
 
 ### **Running the Tester**
 1. **Ensure the tester executable is available in the project directory.**
