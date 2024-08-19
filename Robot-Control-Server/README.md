@@ -132,7 +132,7 @@ Using a direct connection between the server and the robots in combination with 
 
 Every properly implemented server should be able to handle this situation. Robot firmwares take this fact into account and may even exploit it. If the protocol includes a situation where the messages from the robot have a predetermined order, they are sent together in this order. This allows the probes to reduce their consumption and simplifies the protocol implementation from their perspective.
 
-## **Launching the Server and Client** 🚀
+## **Launching the Server and Client** 
 
 ### **Running the Server**
 1. **Ensure g++ compiler is installed on your system.**
