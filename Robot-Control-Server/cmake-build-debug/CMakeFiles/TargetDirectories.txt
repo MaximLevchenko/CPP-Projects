@@ -1,3 +1,0 @@
-/home/levchmak/transfer/CPP/cpp-projects/Robot-Control-Server/cmake-build-debug/CMakeFiles/Robot_Control_Server.dir
-/home/levchmak/transfer/CPP/cpp-projects/Robot-Control-Server/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/levchmak/transfer/CPP/cpp-projects/Robot-Control-Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
