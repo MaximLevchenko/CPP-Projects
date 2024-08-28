@@ -11,7 +11,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Big_Numbers" targetName="Big_Numbers" />
+      <config projectName="Student_Database_Simulator" targetName="Student_Database_Simulator" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,8 +20,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3ed5b23-5a91-48f7-a05e-810cea43b87c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a21328d3-f412-40b6-b606-048c74466231" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/cpp-projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Big-Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Big-Numbers/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +49,9 @@
     <option name="minorVersion" value="3.4" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2lIsfRBS9xzS55BxYn6oUvzCnwj" />
+  <component name="ProjectId" id="2lIxR4QeGTOF2y9LSevjcOFGKIv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,10 +65,6 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,7 +75,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Big_Numbers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Big_Numbers" TARGET_NAME="Big_Numbers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Big_Numbers" RUN_TARGET_NAME="Big_Numbers">
+    <configuration name="Student_Database_Simulator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Student_Database_Simulator" TARGET_NAME="Student_Database_Simulator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Student_Database_Simulator" RUN_TARGET_NAME="Student_Database_Simulator">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -83,12 +84,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3ed5b23-5a91-48f7-a05e-810cea43b87c" name="Changes" comment="" />
-      <created>1724879027299</created>
+      <changelist id="a21328d3-f412-40b6-b606-048c74466231" name="Changes" comment="" />
+      <created>1724881379683</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724879027299</updated>
-      <workItem from="1724879028875" duration="1726000" />
+      <updated>1724881379683</updated>
+      <workItem from="1724881380792" duration="150000" />
     </task>
     <servers />
   </component>
