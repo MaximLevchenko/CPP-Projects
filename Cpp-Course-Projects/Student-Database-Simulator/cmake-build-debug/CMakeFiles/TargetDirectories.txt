@@ -1,3 +1,0 @@
-/home/levchmak/transfer/CPP/cpp-projects/Cpp-Course-Projects/Student-Database-Simulator/cmake-build-debug/CMakeFiles/Student_Database_Simulator.dir
-/home/levchmak/transfer/CPP/cpp-projects/Cpp-Course-Projects/Student-Database-Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/levchmak/transfer/CPP/cpp-projects/Cpp-Course-Projects/Student-Database-Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
