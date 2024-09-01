@@ -45,32 +45,9 @@ The iterative solution uses a breadth-first search (BFS) strategy, processing no
 
 In summary, while both solutions are correct and solve the problem, the iterative approach is more effective in terms of memory usage and overall performance, particularly for larger and more complex tree structures.
 
-## Usage Example
-
-Here’s a sample usage of the `solve` function:
-
-```cpp
-#include <iostream>
-#include "TreeProblem.h" // Include your header file
-
-int main() {
-    TreeProblem problem = {
-        1, // Maximum group size
-        {1, 1, 1, 4}, // Gifts on each tree
-        {{0, 3}, {1, 3}, {2, 3}} // Connections between trees
-    };
-
-    uint64_t result = solve(problem); // Use the iterative or recursive version
-
-    std::cout << "Maximum gifts collected: " << result << std::endl;
-
-    return 0;
-}
-```
 ## Compilation and Execution
 To compile and run the code, use a C++ compiler such as g++. Here is a basic compilation command:
 ```bash
-g++ -o treeproblem main.cpp
+g++ -o treeproblem iterative.cpp
 ./treeproblem
-
 ```
