@@ -62,6 +62,16 @@ int main() {
 
 The Knuth-Morris-Pratt (**KMP**) algorithm is used to perform efficient pattern matching within the collection. This algorithm preprocesses the pattern to create a partial match table (also known as a "prefix" table), which allows the search to skip parts of the text, resulting in a linear time complexity for the search operation, **O(N + M)**, where N is the length of the text and M is the length of the pattern.
 
+## Compilation and Running Tests
+To compile the code, use a C++ compiler that supports C++11 or later. Here’s a basic command for compiling with **g++**:
+
+```bash
+g++ -std=c++11 -o kmp main.cpp
+```
+The **main** function contains test cases that demonstrate the functionality of the project. To run the tests, simply compile and execute the program:
+```bash
+./kmp
+```
 
 ## Conclusion
 

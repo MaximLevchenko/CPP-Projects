@@ -90,6 +90,16 @@ std::cout << b;
 // Compare structs
 assert(a != b);
 ```
+## Compilation and Running Tests
+To compile the code, use a C++ compiler that supports C++11 or later. Here’s a basic command for compiling with **g++**:
+
+```bash
+g++ -std=c++11 -o simulation main.cpp
+```
+The **main** function contains test cases that demonstrate the functionality of the project. To run the tests, simply compile and execute the program:
+```bash
+./simulation
+```
 
 ## Conclusion
 This project provides a detailed simulation of C++ data types, leveraging polymorphism to handle different data types uniformly. The classes and methods allow for comprehensive type management and comparison, simulating how a compiler might interact with these data types during compilation.

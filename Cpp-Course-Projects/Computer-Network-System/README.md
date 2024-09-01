@@ -83,6 +83,17 @@ network.addComputer(comp2);
 std::cout << network;
 ```
 
+## Compilation and Running Tests
+To compile the code, use a C++ compiler that supports C++11 or later. Here’s a basic command for compiling with **g++**:
+
+```bash
+g++ -std=c++11 -o network main.cpp
+```
+The **main** function contains test cases that demonstrate the functionality of the project. To run the tests, simply compile and execute the program:
+```bash
+./network
+```
+
 ## Conclusion
 
 This project provides a versatile framework for simulating networks and computers with customizable hardware components. It allows for detailed configurations and offers a comprehensive view of network structures. The modular design makes it easy to extend and adapt for different simulation needs, making it a powerful tool for both learning and practical applications in network and computer architecture.
